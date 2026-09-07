@@ -5,7 +5,7 @@
 Provide the test cases, the repository or relevant product and automation sources, and any case IDs or selection filter. Cases may be supplied as a spreadsheet, document or text.
 
 ```text
-Follow task-automation-readiness-instructions.md.
+Follow agent_docs/task-automation-readiness-instructions.md.
 Assess the supplied test cases in the requested scope.
 Write a compact task-automation-readiness.md report.
 Perform the assessment only. Do not implement or execute tests.
