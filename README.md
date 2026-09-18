@@ -1,11 +1,11 @@
-# Task automation readiness
+# Task: Automation readiness
 
 Reusable assessment instructions and test cases for evaluating whether a
 scenario can be automated with the available product and test capabilities.
 
 ## Install in your project
 
-1. Create `agent_docs/` in the repository you will assess if it does not exist.
+1. Create `agent_docs/` in the repository you'll assess if it doesn't exist.
 2. Copy the supplied files to these locations:
 
    | File in this package | Destination in your project |
@@ -32,5 +32,5 @@ Record clarification questions in the report and complete all selected cases.
 ```
 
 For other cases, replace the workbook and selection in the request. The same
-instructions support spreadsheets, documents and text; no fixed case count or
+instructions support spreadsheets, documents, and text; no fixed case count or
 status distribution is required.
